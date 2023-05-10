@@ -1,1 +1,0 @@
-{"name":"Local: coin_piles","url":"/home/gary/cpp/cses/coin_piles.cpp","tests":[{"id":1683389918108,"input":"3\n2 1\n2 2\n3 3","output":""},{"id":1683389969751,"input":"1\n11 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/gary/cpp/cses/coin_piles.cpp","group":"local","local":true}

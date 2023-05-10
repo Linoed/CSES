@@ -1,1 +1,0 @@
-{"name":"Local: traffic_lights","url":"/home/gary/cpp/cses/traffic_lights.cpp","tests":[{"id":1683657249833,"input":"8 3\n3 6 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/gary/cpp/cses/traffic_lights.cpp","group":"local","local":true}

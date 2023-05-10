@@ -1,1 +1,0 @@
-{"name":"Local: concert_tickets","url":"/home/gary/cpp/cses/concert_tickets.cpp","tests":[{"id":1683537554195,"input":"5 3\n5 3 7 8 5\n4 8 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/gary/cpp/cses/concert_tickets.cpp","group":"local","local":true}
