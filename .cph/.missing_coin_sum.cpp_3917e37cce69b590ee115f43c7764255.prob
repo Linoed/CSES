@@ -1,0 +1,1 @@
+{"name":"Local: missing_coin_sum","url":"/home/gary/cpp/cses/missing_coin_sum.cpp","tests":[{"id":1683567983011,"input":"5\n2 9 1 2 7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/gary/cpp/cses/missing_coin_sum.cpp","group":"local","local":true}
