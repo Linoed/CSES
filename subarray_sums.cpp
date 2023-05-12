@@ -1,3 +1,4 @@
+// works for both Subarray Sums I and Subarray Sums II
 #include <bits/stdc++.h>
 
 
@@ -9,8 +10,8 @@ int main(void) {
     int n, x;
     cin >> n >> x;
 
-    unordered_map<long long, int> mp;
-    mp.reserve(1 << 19);
+    map<long long, int> mp;
+    // mp.reserve(1 << 19);
     mp[0] = 1;
 
     long long sum = 0;
