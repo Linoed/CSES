@@ -55,7 +55,7 @@ int aug(int u, int cflow) {
         }
     }
 
-    lvl[u] = -1;
+    lvl[u] = -1; // not technically needed becauase of nextChild
     return 0;
 }
 
